@@ -13,6 +13,7 @@ here and there.
   <img src="https://img.shields.io/badge/-Java-5382a1?logo=java&logoColor=ffffff&style=for-the-badge&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff&style=for-the-badge&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=for-the-badge&labelColor=282828">
 </div>
 </p>

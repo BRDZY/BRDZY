@@ -7,7 +7,7 @@ here and there.
 
 <br>
 
-### My socials
+### My information
 
 
 

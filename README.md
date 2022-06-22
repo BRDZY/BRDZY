@@ -7,14 +7,24 @@ here and there.
 
 <br>
 
-### My information
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brdzy&show_icons=true&theme=discord_old_blurple)
 
 
+```python
 
-> Name: **Ari Mäkelä**  
-> Location: **Turku, Finland**  
-> Discord: **brdzy#5757**  
-> Twitter: **brdzy_**
+class Information():
+    
+  def __init__(self):
+    self.name = "Ari Mäkelä";
+    self.location = "Turku, Finland";
+    self.discord = "brdzy#5757";
+    self.twitter = "brdzy_";
+    self.web = "brdzy.github.io";
+  
+  def __str__(self):
+    return self.name
 
+if __name__ == '__main__':
+    me = Brdzy()
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brdzy&bg_color=454545&color=b0f4f1&line=56e3eb&point=9fe2e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```

@@ -7,23 +7,6 @@ here and there.
 
 <br>
 
-<p>
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-Java-5382a1?logo=java&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-61DAFB?logo=tailwindcss&logoColor=ffffff&style=for-the-badge&labelColor=282828">
-
-</div>
-</p>
-
 ### My socials
 
 
@@ -32,3 +15,6 @@ here and there.
 > Location: **Turku, Finland**  
 > Discord: **brdzy#5757**  
 > Twitter: **brdzy_**
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brdzy&bg_color=454545&color=b0f4f1&line=56e3eb&point=9fe2e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

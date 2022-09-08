@@ -15,11 +15,9 @@ here and there.
 class Information():
     
   def __init__(self):
-    self.name = "Ari Mäkelä";
-    self.location = "Turku, Finland";
-    self.discord = "brdzy#5757";
-    self.twitter = "brdzy_";
-    self.web = "brdzy.github.io";
+    self.name = "Ari Mäkelä",
+    self.location = "Turku, Finland",
+    self.discord = "brdzy#5757",
   
   def __str__(self):
     return self.name

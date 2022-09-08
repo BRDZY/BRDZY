@@ -2,7 +2,7 @@
   <b>README</b>
 </h1>
 
-Hey! I'm Ari from Finland. I'm just an idiot who tries to learn Java, HTML, CSS and JavaScript. Working on some small projects
+Hey! I'm Ari from Finland. I'm just an guy who tries to learn Python, HTML, CSS and JavaScript. Working on some small projects
 here and there.
 
 <br>

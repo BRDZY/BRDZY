@@ -1,6 +1,3 @@
-<h1 align="center">
-  <b>README</b>
-</h1>
 
 Hey there!👋 I'm Ari from Finland. Studying software development at Hyria.
 
